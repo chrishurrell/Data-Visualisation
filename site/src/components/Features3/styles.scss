@@ -1,0 +1,18 @@
+.Features3__columns {
+  &:not(:last-of-type) {
+    padding-bottom: 1.5rem;
+    @media screen and (min-width: 769px) {
+      padding-bottom: 2.5rem;
+    }
+  }
+}
+
+.Features3__icon {
+  font-size: 70px;
+  width: 70px;
+  height: 70px;
+}
+
+.Features3__title {
+  margin-bottom: 1.2rem !important;
+}
